@@ -61,6 +61,7 @@ The script will :
 # Example Output
 The script will generate a plot (fuel_consumption.png) that compares fuel consumption between a conventional platoon driving model and an adaptive driving model. The plot provides insights into fuel consumption patterns over time.
 
+![fuel consumption overtime plot](https://github.com/JawaherCharfeddine/XML2CSV/blob/master/fuel_consumption.png)
 
 Author
 [JawaherCharfeddine]
